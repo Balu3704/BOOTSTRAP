@@ -1,0 +1,30 @@
+#first{
+    background-color: gray;
+    height:200px;
+}
+#second{
+    background-color:green;
+    height:200px;
+}
+#third{
+    background-color:red;
+    height:200px;
+}
+#four{
+    background-color:pink;
+    height:200px;
+}
+#five{
+    background-color:orange;
+    height:200px;
+}
+#six{
+    background-color:skyblue;
+    height:200px;
+}
+#first{
+    overflow: scroll;
+}
+.btn-info{
+    background-color:red !important;
+}
